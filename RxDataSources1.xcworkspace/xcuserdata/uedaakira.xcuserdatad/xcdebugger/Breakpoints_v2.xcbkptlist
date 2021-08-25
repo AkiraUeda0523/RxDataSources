@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "27307E99-2457-4E7E-88CD-C112876E2B45"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F453A2A7-6065-4D24-AED4-4EA084686BFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxDataSources1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "configureCell"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F821398A-E8E7-4115-90F0-AB007E5EFC61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxDataSources1/View/SettingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A08C6B72-CF02-42A6-ABD2-0B18C4FAF80F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxDataSources1/View/SettingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE98987D-2405-4419-844D-D1880202C57A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxDataSources1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BE98987D-2405-4419-844D-D1880202C57A - e04b2fb8fa5398ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.dataSource.getter : RxDataSources.RxTableViewSectionedReloadDataSource&lt;Differentiator.SectionModel&lt;RxDataSources1.SettingsSection, RxDataSources1.SettingsItem&gt;&gt;"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "BE98987D-2405-4419-844D-D1880202C57A - e04b2fb8fa5398ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.dataSource.setter : RxDataSources.RxTableViewSectionedReloadDataSource&lt;Differentiator.SectionModel&lt;RxDataSources1.SettingsSection, RxDataSources1.SettingsItem&gt;&gt;"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "BE98987D-2405-4419-844D-D1880202C57A - e04b2fb8fa53995b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.dataSource.modify : RxDataSources.RxTableViewSectionedReloadDataSource&lt;Differentiator.SectionModel&lt;RxDataSources1.SettingsSection, RxDataSources1.SettingsItem&gt;&gt;"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BE98987D-2405-4419-844D-D1880202C57A - d1dc028c6c748ee7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.dataSource.modify : RxDataSources.RxTableViewSectionedReloadDataSource&lt;Differentiator.SectionModel&lt;RxDataSources1.SettingsSection, RxDataSources1.SettingsItem&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "BE98987D-2405-4419-844D-D1880202C57A - c46877cba01092ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RxDataSources1.ViewController"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "BE98987D-2405-4419-844D-D1880202C57A - c2ddbea21ce890ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RxDataSources1.ViewController&gt;"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E30DD1A-9306-4143-8783-A64AC6886008"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxDataSources1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "configureCell"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "3E30DD1A-9306-4143-8783-A64AC6886008 - d7fa529dcffcc219"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.configureCell.getter : (RxDataSources.TableViewSectionedDataSource&lt;Differentiator.SectionModel&lt;RxDataSources1.SettingsSection, RxDataSources1.SettingsItem&gt;&gt;, __C.UITableView, Foundation.IndexPath, RxDataSources1.SettingsItem) -&gt; __C.UITableViewCell"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "3E30DD1A-9306-4143-8783-A64AC6886008 - d7fa529dcffcc238"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.configureCell.setter : (RxDataSources.TableViewSectionedDataSource&lt;Differentiator.SectionModel&lt;RxDataSources1.SettingsSection, RxDataSources1.SettingsItem&gt;&gt;, __C.UITableView, Foundation.IndexPath, RxDataSources1.SettingsItem) -&gt; __C.UITableViewCell"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "3E30DD1A-9306-4143-8783-A64AC6886008 - d7fa529dcffcc3ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.configureCell.modify : (RxDataSources.TableViewSectionedDataSource&lt;Differentiator.SectionModel&lt;RxDataSources1.SettingsSection, RxDataSources1.SettingsItem&gt;&gt;, __C.UITableView, Foundation.IndexPath, RxDataSources1.SettingsItem) -&gt; __C.UITableViewCell"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "3E30DD1A-9306-4143-8783-A64AC6886008 - 64a29623a4e86060"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.configureCell.modify : (RxDataSources.TableViewSectionedDataSource&lt;Differentiator.SectionModel&lt;RxDataSources1.SettingsSection, RxDataSources1.SettingsItem&gt;&gt;, __C.UITableView, Foundation.IndexPath, RxDataSources1.SettingsItem) -&gt; __C.UITableViewCell with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "3E30DD1A-9306-4143-8783-A64AC6886008 - c46877cba01092ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RxDataSources1.ViewController"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "3E30DD1A-9306-4143-8783-A64AC6886008 - c2ddbea21ce890e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxDataSources1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RxDataSources1.ViewController&gt;"
+                  moduleName = "RxDataSources1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uedaakira/Documents/RxDataSources1/RxDataSources1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
